@@ -303,18 +303,6 @@ AuthShield:
 
 ---
 
-## 🚀 Roadmap
-
-- [ ] Additional authentication log formats
-- [ ] Configurable detection thresholds
-- [ ] More identity-risk correlation rules
-- [ ] Pluggable detection rules
-- [ ] SIEM-friendly output formats
-- [ ] Configurable rule definitions
-- [ ] Larger synthetic authentication datasets
-
----
-
 ## 📚 Challenge Context
 
 **AuthShield is Day 05 of my 100 Days • 100 Cybersecurity Projects challenge.**
